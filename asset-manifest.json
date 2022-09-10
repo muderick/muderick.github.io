@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b67f7a5b.css",
+    "main.js": "/static/js/main.11cac109.js",
+    "static/media/about-me.jpg": "/static/media/about-me.63df73929e5be2f2346d.jpg",
+    "static/media/derick 4.png": "/static/media/derick 4.2508daec9e05966a5e22.png",
+    "static/media/mumia cv.pdf": "/static/media/mumia cv.0de51052af99bf4a2d30.pdf",
+    "static/media/Aml.jpg": "/static/media/Aml.e7b5c40affad88ca4eda.jpg",
+    "static/media/Bresen.png": "/static/media/Bresen.815a3b9dc128c1ccd952.png",
+    "index.html": "/index.html",
+    "main.b67f7a5b.css.map": "/static/css/main.b67f7a5b.css.map",
+    "main.11cac109.js.map": "/static/js/main.11cac109.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b67f7a5b.css",
+    "static/js/main.11cac109.js"
+  ]
+}
